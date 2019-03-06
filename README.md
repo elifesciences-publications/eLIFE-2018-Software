@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Reeson et al., "VEGF signaling regulates the fate of obstructed capillaries in mouse cortex". eLife, 2018. http://dx.doi.org/10.7554/eLife.33670
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/preeson/eLIFE-2018-Software/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
